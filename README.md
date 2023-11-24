@@ -1,2 +1,2 @@
 # python-intermidate-level
-## Contents
+## Table of Contents
