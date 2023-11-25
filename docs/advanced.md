@@ -6,14 +6,14 @@ Advanced Data Structures:
 1) Sets:
     - Sets are unordered collections of unique elements.
     - Useful for operations like union, intersection, and difference.
-```
-unique_colors = {"red", "blue", "green"}
-new_colors = {"blue", "yellow"}
+    ```
+    unique_colors = {"red", "blue", "green"}
+    new_colors = {"blue", "yellow"}
 
-# Union of sets
-all_colors = unique_colors.union(new_colors)
-print(all_colors)
-```
+    # Union of sets
+    all_colors = unique_colors.union(new_colors)
+    print(all_colors)
+    ```
 2) Tuples
     - Tuples are immutable sequences. Once created, their elements cannot be changed.
     - Ideal for representing fixed collections of values.
