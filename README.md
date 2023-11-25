@@ -8,10 +8,6 @@ Table of Contents:
 2) [Code Standards](docs/code_standards.md)
 3) [Review of Basics](docs/basics.md)
 4) [Advanced Data Structures](docs/advanced.md)
-Sets and frozensets
-Stacks and queues
-Namedtuples
-Advanced dictionary techniques
 5) [File Handling](docs/file_handling.md)
 6) [Exception Handling](docs/exception_handling.md)
 7) [Introduction to OOP](docs/basics_of_oop.md)
