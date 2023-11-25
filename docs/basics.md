@@ -33,6 +33,4 @@ for fruit in fruits:
 # 1. Create a function to calculate the area of a rectangle given its length and width.
 # 2. Use a loop to print the squares of numbers from 1 to 5.
 # 3. Create a dictionary representing a person with keys for name, age, and profession.
-
-# Remember to test your code and ensure it behaves as expected!
 ```
