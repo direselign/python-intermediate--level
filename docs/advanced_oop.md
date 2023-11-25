@@ -99,7 +99,8 @@ Decorators and descriptors are advanced features in Python that provide powerful
         print(temp.celsius)  # Output: 25
         print(temp.celsius.to_fahrenheit())  # Output: 77.0
         ```
-3) Metaclasses
+3) Metaclasses:
+
     Metaclasses are a powerful and advanced concept in Python that allow you to control the behavior of class creation. A metaclass is essentially a class for classes, providing a way to customize how classes themselves are created and behave.
 
     - Class as an Instance of a Metaclass
@@ -140,6 +141,7 @@ Decorators and descriptors are advanced features in Python that provide powerful
             name = "example"
         ``` 
 4) Class Methods and Static Methods
+
     Class methods and static methods are special types of methods in Python classes that have different behavior from regular instance methods. They are used for tasks that don't require access to the instance or its attributes.
     - Defining Class Methods
         - Class methods are defined using the @classmethod decorator.
