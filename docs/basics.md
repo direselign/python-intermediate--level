@@ -1,6 +1,7 @@
 Review of Basics
 ----------------
 Before diving into advanced Python concepts, let's ensure a strong foundation by reviewing key basics. This includes variables, control flow, functions, and data structures. A solid grasp of these fundamentals is essential for building more complex programs.
+
 Example:
 ```
 # Variables and Data Types
