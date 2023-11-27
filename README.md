@@ -1,10 +1,7 @@
 # python-intermidate-level
 Table of Contents:
 ------------------
-1) Programming tools
-    - [Virtual Environment](docs/virtual_environment.md)
-    - [Debugging](docs/debuging.rst)
-    - [Object introspection](docs/object_introspection.rst)
+1) [Programming tools](docs/virtual_environment.md)
 2) [Code Standards](docs/code_standards.md)
 3) [Review of Basics](docs/basics.md)
 4) [Advanced Data Structures](docs/advanced.md)
