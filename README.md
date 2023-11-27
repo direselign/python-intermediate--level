@@ -1,9 +1,9 @@
 # Python Intermidate Level
 Table of Contents:
 ------------------
-1) [Programming tools](docs/virtual_environment.md)
-2) [Code Standards](docs/code_standards.md)
-3) [Review of Basics](docs/basics.md)
+1) [Virtual Environment](docs/virtual_environment.md)
+2) [Review of Basics](docs/basics.md)
+3) [Code Standards](docs/code_standards.md)
 4) [Advanced Data Structures](docs/advanced.md)
 5) [File Handling](docs/file_handling.md)
 6) [Exception Handling](docs/exception_handling.md)
