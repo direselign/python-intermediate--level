@@ -1,4 +1,4 @@
-# python-intermidate-level
+# Python Intermidate Level
 Table of Contents:
 ------------------
 1) [Programming tools](docs/virtual_environment.md)
